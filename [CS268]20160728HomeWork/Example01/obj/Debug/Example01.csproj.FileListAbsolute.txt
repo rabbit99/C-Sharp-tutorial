@@ -9,6 +9,9 @@ C:\Users\USER\documents\visual studio 2015\Projects\[cs268]20160728HomeWork\Exam
 C:\Users\USER\documents\visual studio 2015\Projects\[cs268]20160728HomeWork\Example01\bin\Debug\GameLibrary.pdb
 C:\Users\USER\documents\visual studio 2015\Projects\[cs268]20160728HomeWork\Example01\obj\Debug\Example01.exe
 C:\Users\USER\documents\visual studio 2015\Projects\[cs268]20160728HomeWork\Example01\obj\Debug\Example01.pdb
+<<<<<<< HEAD
 C:\Users\USER\Desktop\tutorial\[CS268]20160728HomeWork\Example01\bin\Debug\Example01.exe.config
 C:\Users\USER\Desktop\tutorial\[CS268]20160728HomeWork\Example01\obj\Debug\Example01.exe
 C:\Users\USER\Desktop\tutorial\[CS268]20160728HomeWork\Example01\obj\Debug\Example01.pdb
+=======
+>>>>>>> 3149c62c46ec3f8f5bc7777e2f44c85d996a49a7
