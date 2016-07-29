@@ -1,0 +1,5 @@
+C:\Users\USER\documents\visual studio 2015\Projects\[cs268]20160728HomeWork\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\USER\documents\visual studio 2015\Projects\[cs268]20160728HomeWork\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\[cs268]20160728HomeWork\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2015\Projects\[cs268]20160728HomeWork\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\USER\documents\visual studio 2015\Projects\[cs268]20160728HomeWork\GameLibrary\obj\Debug\GameLibrary.pdb
